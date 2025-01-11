@@ -1,22 +1,31 @@
-### 💻 Tech Stack:
-##### Daily drive OS:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/640px-UbuntuCoF.svg.png" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+## 💻 Tech Stack:
+### Daily drive OS:
+<a href="">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+  </a>
+</p>
 
-##### Languages:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/220px-Official_YAML_Logo.svg.png" alt="yaml" width="40" height="40"/> 
 
-##### Front End:
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="margin-right: 6px;"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="margin-right: 6px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="margin-right: 10px;"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 4px;"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="margin-right: 6px;"/> 
+### Front End:
+<a href="">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,sass" />
+</a>
 
-##### Back End:
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40" style="margin-right: 6px;"/> <img src="https://uploads.sitepoint.com/wp-content/uploads/2023/05/1683678867bun-logo.svg" alt="bun" width="40" height="40" style="margin-right: 6px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/512px-Socket-io.svg.png" alt="socket-io" style="margin-right: 6px;" width="40" height="40"/> <img src="https://avatars.githubusercontent.com/u/19872173?s=48&v=4" alt="strapi" width="40" height="40" style="margin-right: 6px;"/> <img src="https://avatars.githubusercontent.com/u/7894478?s=48&v=4" alt="gin" width="40" height="40" style="margin-right: 6px;"/> <img src="https://images.chainguard.dev/logos/nginx.svg" style="margin-right: 3px;" alt="nginx" width="40" height="40"/> <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4"  alt="apache" width="40" height="40"/> <img src="https://raw.githubusercontent.com/docker-library/docs/a6cc2c5f4bc6658168f2a0abbb0307acaefff80e/traefik/logo.png" style="margin-right: 6px;" alt="apache" width="40" height="40"/> 
+### Back End:
+<a href="">
+    <img src="https://skillicons.dev/icons?i=nodejs,bun,golang,flask,symfony,redis,graphql" />
+</a>
 
-##### Databases:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" style="margin-right: 6px;" idth="40" height="40"/>  <img style="margin-right: 6px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img style="margin-right: 6px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img style="margin-right: px;" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+### Databases:
+<a href="">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo,sqlite" />
+</a>
 
-##### System Adminstration - CI/CD :
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/640px-UbuntuCoF.svg.png" alt="ubuntu" width="40" height="40"/>  <img src="https://static-00.iconduck.com/assets.00/debian-icon-512x512-4oslvm20.png" alt="debian" width="40" height="42"/> <img src="https://www.ansible.com/images/project-logos/ansible-core.svg" alt="ansible" width="40" height="42" style="margin-right: 6px;"/> <img src="https://github.co.jp/assets/images/features/actions/actions-icon-actions.svg" style="margin-right: 6px;" alt="github-actions" width="40" height="40" />  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="40" height="40"/> 
+### System Adminstration - CI/CD :
+<a href="">
+    <img src="https://skillicons.dev/icons?i=ubuntu,debian,cloudflare,grafana,prometheus,ansible,githubactions,docker" />
+</a>
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aouiniamine&theme=aura_dark&no-frame=true&no-bg=false&margin-w=4)
 
